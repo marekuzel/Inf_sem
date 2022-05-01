@@ -1,0 +1,36 @@
+DS 788 BZ
+BL 458 JK
+PE 178 CH
+BB 140 FB
+ZV 077 BV
+TS 156 BF
+TN 109 ED
+SC 439 DV
+SC 832 CG
+BJ 293 BY
+RV 667 AV
+GA 536 BD
+PE 151 DH
+DS 235 AG
+BB 140 GB
+ZV 897 BV
+SC 127 AB
+TS 236 BF
+SA 504 CO
+PK 811 DM
+BN 308 BX
+BR 376 CB
+DS 265 CD
+GA 548 BT
+SB 237 HC
+TR 849 AP
+NZ 037 FH
+BR 356 AF
+SB 007 BJ
+TR 849 AP
+NZ 917 FH
+BL 059 XD
+BL 246 NS
+cd "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/Inf_sem/April"
+& "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/venv/Scripts/python.exe" "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/Inf_sem/April/20.4_testSPZ.py"
+DS 069 TV

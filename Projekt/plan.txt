@@ -1,0 +1,32 @@
+Zostaviť python app ktorá zoberie fotku sudoku a solvne ho
+
+Na image reading použijem PyTesseract
+Z neho vytvorím (asi) .txt file
+Txt file upravím python kodom.
+
+
+Steps:
+    zistit ako funguje PyTesseract
+    zistit ako funguje image import do kodu
+    Napísať python code pre solve sudoku z .txt
+    Pridať PyTesseract
+    ...
+    Profit
+    (možno interface ale vieme ako to dopadne)
+
+https://pypi.org/project/pytesseract/
+
+https://www.youtube.com/watch?v=6DjFscX4I_c&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
+x ->
+003020600   
+900305001 
+001806400
+008102900
+700000008
+006708200
+002609500
+800203009
+
+
+
+za každú nulu pridáme do listov pozíciu x a pozíciu y.
