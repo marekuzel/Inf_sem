@@ -34,3 +34,4 @@ BL 246 NS
 cd "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/Inf_sem/April"
 & "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/venv/Scripts/python.exe" "c:/Users/marek/OneDrive/Poèítaè/PyCharm projects/Sem. z Inf 2021/New folder/Inf_sem/April/20.4_testSPZ.py"
 DS 069 TV
+BL 006 DK
